@@ -1,5 +1,3 @@
-import { ParallaxLayer } from "@react-spring/parallax"
-
 const IntroTextLayer: React.FC = () => {
 
     return (

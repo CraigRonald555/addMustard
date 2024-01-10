@@ -1,7 +1,5 @@
 import { Parallax, ParallaxLayer } from "@react-spring/parallax";
-import IntroductionLayer from "../components/parallax/IntroTextLayer";
 import logo from '../assets/logo.png';
-import introSection_1 from '../assets/introSection_1.webp';
 import { useEffect, useState } from "react";
 import Loading from "../components/loading/Loading";
 import IntroImageLayer from "../components/parallax/IntroImageLayer";
